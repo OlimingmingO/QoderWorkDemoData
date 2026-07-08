@@ -1,0 +1,25 @@
+PROCUREMENT REQUEST
+
+Department: IT Infrastructure
+Requestor: Sarah Tan
+Date: 2026-05-15
+Priority: High
+
+Items Required:
+- Dell PowerEdge R750 Server, Qty: 2, Unit Price: RM 45,000
+- Cisco Catalyst 9300 Switch, Qty: 5, Unit Price: RM 12,500
+- APC Smart-UPS 3000VA, Qty: 3, Unit Price: RM 4,200
+- Cat6A Ethernet Cable (305m box), Qty: 10, Unit Price: RM 850
+
+Preferred Vendor: TechSupply Sdn Bhd
+Vendor Contact: Ahmad Razak, ahmad@techsupply.com.my
+Vendor Address: Lot 15, Jalan Teknologi 3/5, PJ Trade Centre, 47810 Petaling Jaya, Selangor
+
+Delivery Requirements:
+- Delivery Address: Level 8, IT Server Room, Menara A, Plaza Damas
+- Required Delivery Date: 2026-06-01
+- Special Instructions: Coordinate with IT team for after-hours installation
+
+Payment Terms: Net 30 days
+Budget Code: IT-CAPITAL-2026-Q2
+Approval: Approved by CTO (Ref: CTO-APR-2026-089)
